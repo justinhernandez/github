@@ -1,8 +1,10 @@
 Github API Library for Kohana
 Justin Hernandez <justin@transphorm.com>
-Version: 1.0
-Date: 3/1/09
+Version: 2.0
+Date: 4/18/09
+
+There are a lot of non working api methods. I've double and triple checked but can't seem to get these working. Issues are outlined in BUGS.
 
 Thanks Github!
 
-Check out the  demo @ http://transphorm.com/kohana/githubdemo
+Check out the  demo @ http://transphorm.com/kohana/github
