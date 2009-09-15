@@ -3,7 +3,7 @@
 3. When adding a new ssh key, index should be 'title' not 'name' as stated in API docs.
 4. When adding an email index should be 'email'
 5. When removeing email index 'email' has to used with email name not id.
-6. Repo network doesn't work - http://github.com/api/v2/json/repos/show/justinhernandez/github-v1/network
+6. Repo network doesn't work - http://github.com/api/v2/json/repos/show/justinhernandez/github/network
 7. Repo tags is a no go
 8. Repo branches doesn't work either
 9. Tree contents don't work
